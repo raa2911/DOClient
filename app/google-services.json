@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "863417308789",
+    "firebase_url": "https://doclien-d3b2e.firebaseio.com",
+    "project_id": "doclien-d3b2e",
+    "storage_bucket": "doclien-d3b2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863417308789:android:9cff4a1fe9f66f2b",
+        "android_client_info": {
+          "package_name": "com.raapp.doclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863417308789-hqlfhcmbv0212vecnmkune8ldafvb8rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqastJyu1CloIOUwW10xWMIZpByxwENfw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,7 +1,8 @@
-package com.raapp.doclient.doclient
+package com.raapp.doclient
 
 import android.app.Activity
 import android.os.Bundle
+import com.raapp.doclient.doclient.R
 
 class MainActivity : Activity() {
 
